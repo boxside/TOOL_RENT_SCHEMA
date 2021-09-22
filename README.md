@@ -1,7 +1,5 @@
 # LABOTARIUM TOOL RENT DATABASE DESIGN
 
-## CONTENT
-
 # Table of Contents
 1. [RULES AND ASSUMPTIONS](#RULES-AND-ASSUMPTIONS)
 2. [PROCEDURE](#Procedure)
@@ -49,7 +47,7 @@
 5. When visitor is returning tools must delivered and accepted by laboratorium assistant.
 
 
-### Procedure
+## Procedure
 
 ![Figure 1.1](https://github.com/boxside/TOOL_RENT_SCHEMA/blob/main/figure/prosedur.jpeg)
 
