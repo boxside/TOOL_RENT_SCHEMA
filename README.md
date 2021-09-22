@@ -51,18 +51,18 @@
 
 ### Procedure
 
-![Figure 1.1]()
+![Figure 1.1](https://github.com/boxside/TOOL_RENT_SCHEMA/blob/main/figure/prosedur.jpeg)
 
 ## ERD AND SCHEMA
 
 ERD
 
-![Figure 2.1]()
+![Figure 2.1](https://github.com/boxside/TOOL_RENT_SCHEMA/blob/main/figure/Logical.png)
 
 
 TABLE SCHEMA
 
-![Figure 2.2]()
+![Figure 2.2](https://github.com/boxside/TOOL_RENT_SCHEMA/blob/main/figure/Relational_11.png)
 
 ## TABLE CONSTRAINT
 
